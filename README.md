@@ -1,6 +1,6 @@
 # zepto
 
-Zepto App clone UI design
+Zepto App clone Homescreen UI design
 
 ## Getting Started
 
